@@ -4484,5 +4484,12 @@
         "author": "Salmund",
         "description": "Allow to use the selected word as an alias in link suggestion",
         "repo": "salmund/obsidian-better-link-inserter"
+    },
+    {
+	    "id": "obsidian-compile-notes-plugin",
+        "name": "Compile Notes",
+        "author": "Michelle Kneisel",
+	    "description": "Compiles links and embedded content into a single file. Supports nested content.",
+        "repo": "michKneisel/obsidian-compile-notes-plugin"
     }
 ]
